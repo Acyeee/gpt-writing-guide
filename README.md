@@ -22,8 +22,8 @@ GPT、Codex 写的正式中文文稿常有防御性强、措辞保守、自我�
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)：可自由转载和修改，请注明出处。
 
-## 赞助
+---
 
-写稿要调用 GPT、Codex？可以试试作者自己运营的 [小噜噜 API（xiaolulu.cc）](https://xiaolulu.cc)，兼容 OpenAI 接口。
+相关项目：[Codex 额度扩容](https://github.com/Acyeee/codex-route-bridge)。
 
-另一个项目：[Codex 额度扩容](https://github.com/Acyeee/codex-route-bridge)，Plus 额度不够用时保留原账号和聊天记录，接上第三方 API 继续用。
+<sub>作者另外提供 [小噜噜 API](https://xiaolulu.cc) 和 AI 订阅代充服务，有需要可以联系我。</sub>
