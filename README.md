@@ -26,4 +26,4 @@ GPT、Codex 写的正式中文文稿常有防御性强、措辞保守、自我�
 
 相关项目：[Codex 额度扩容](https://github.com/Acyeee/codex-route-bridge)。
 
-<sub>作者另外提供 [小噜噜 API](https://xiaolulu.cc) 和 AI 订阅代充服务，有需要可以联系我。</sub>
+<sub>作者另外提供 [小噜噜 API](https://xiaolulu.cc) 和 AI 订阅代充服务，也欢迎 API 服务商合作推荐。有需要可加微信：xiaolulu28256</sub>
